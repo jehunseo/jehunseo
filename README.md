@@ -9,17 +9,24 @@
   - C/C++, Python 관련 레포를 찾아 본격적인 오픈소스 활동에 참여하고 싶습니다.
 ---
 
-# Studying now
+### Studying now
 - Embedded C Programming (controlling Atmega128 with I/O, Timer/Counter, CAN, and etc.)
 - Kotlin (Android Application Development)
 - Python
 
-# Interested in
+### Interested in
 - Program Solving
 - Opensource Contribution
 - Embedded Programming
 - Linux System
 - Data Analysis
+---
+### 경력
+- MandoHella Electronics Intern(2020.07 ~ 2020.08)
+---
+### 활동
+- [2020 Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- [IBM C:Louders](https://developer.ibm.com/kr/clouders/?fbclid=IwAR1jv6Ac7pjwLc81VO3T5N_zqLf2v8SBSEEJYKGVAVKSGAF34m0pjlaf-Gw) (2020.10 ~)
 <!--
 **jehunseo/jehunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
