@@ -1,12 +1,10 @@
 [![jehunseo's github stats](https://github-readme-stats.vercel.app/api?username=jehunseo&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jehunseo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=benbot5)](https://solved.ac/benbot5)
 ---
 ### Hi there, I'm Jehunseo! 👋
 - Email : benbot591@gmail.com
 - Blog : https://jehunseo.tistory.com/
-- 주로 임베디드, 서버사이드 개발에 많은 관심을 갖고 있습니다.
+- 임베디드와 리눅스에 많은 관심을 갖고 있습니다.
 - 번역이나 문서화 위주로 오픈소스 활동을 하고 있습니다. 
   - C/C++, Python 관련 레포를 찾아 본격적인 오픈소스 활동에 참여하고 싶습니다.
 ---
