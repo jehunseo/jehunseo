@@ -21,9 +21,6 @@
 - Linux System
 - Data Analysis
 ---
-### 경력
-- MandoHella Electronics Intern(2020.07 ~ 2020.08)
----
 ### 활동
 - [2020 Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - [IBM C:Louders](https://developer.ibm.com/kr/clouders/?fbclid=IwAR1jv6Ac7pjwLc81VO3T5N_zqLf2v8SBSEEJYKGVAVKSGAF34m0pjlaf-Gw) (2020.10 ~)
