@@ -23,7 +23,7 @@
 ---
 ### 활동
 - [2020 Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-- [IBM C:Louders](https://developer.ibm.com/kr/clouders/?fbclid=IwAR1jv6Ac7pjwLc81VO3T5N_zqLf2v8SBSEEJYKGVAVKSGAF34m0pjlaf-Gw) (2020.10 ~)
+- [IBM C:LOUDERs](https://developer.ibm.com/kr/clouders/?fbclid=IwAR1jv6Ac7pjwLc81VO3T5N_zqLf2v8SBSEEJYKGVAVKSGAF34m0pjlaf-Gw) (2020.10 ~)
 <!--
 **jehunseo/jehunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
