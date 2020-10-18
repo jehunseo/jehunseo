@@ -12,8 +12,8 @@
 
 ### Studying now
 - Embedded C Programming (controlling Atmega128 with I/O, Timer/Counter, CAN, and etc.)
+- Python (Assignment for Data Analysis and Numerical Analysis)
 - Kotlin (Android Application Development)
-- Python
 
 ### Interested in
 - Program Solving
