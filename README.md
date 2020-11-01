@@ -4,7 +4,7 @@
 ### Hi there, I'm Jehunseo! 👋
 - Email : benbot591@gmail.com
 - Blog : https://jehunseo.tistory.com/
-<!-- Kaggle Profile : https://www.kaggle.com/jehunseo -->
+- Kaggle Profile : https://www.kaggle.com/jehunseo
 - 임베디드와 리눅스에 많은 관심을 갖고 있습니다.
 - 번역이나 문서화 위주로 오픈소스 활동을 하고 있습니다. 
   - C/C++, Python 관련 레포를 찾아 본격적인 오픈소스 활동에 참여하고 싶습니다.
