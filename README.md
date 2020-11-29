@@ -19,7 +19,6 @@
 ### Interested in
 - Program Solving
 - Opensource Contribution
-- Embedded Programming
 - Linux System
 
 ---
