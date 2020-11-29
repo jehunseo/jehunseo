@@ -13,6 +13,7 @@
 ### Studying now
 - Embedded C Programming (controlling Atmega128 with I/O, Timer/Counter, CAN, and etc.)
 - Python (Assignment for Data Analysis and Numerical Analysis)
+- Data Analysis (EDA, Missing Value Treatment)
 - Kotlin (Android Application Development)
 
 ### Interested in
@@ -20,7 +21,7 @@
 - Opensource Contribution
 - Embedded Programming
 - Linux System
-- Data Analysis
+
 ---
 ### 활동
 - [2020 Hacktoberfest](https://hacktoberfest.digitalocean.com/)
