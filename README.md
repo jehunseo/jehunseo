@@ -5,19 +5,15 @@
 - Email : benbot591@gmail.com
 - Blog : https://jehunseo.tistory.com/
 - Kaggle Profile : https://www.kaggle.com/jehunseo
-- 임베디드와 리눅스에 많은 관심을 갖고 있습니다.
-- 번역이나 문서화 위주로 오픈소스 활동을 하고 있습니다. 
-  - C/C++, Python 관련 레포를 찾아 본격적인 오픈소스 활동에 참여하고 싶습니다.
 ---
-
 ### Studying now
 - Embedded C Programming (controlling Atmega128 with I/O, Timer/Counter, CAN, and etc.)
 - Python (Assignment for Data Analysis and Numerical Analysis)
 - Data Analysis (EDA, Missing Value Treatment)
 - Kotlin (Android Application Development)
+- Program Solving
 
 ### Interested in
-- Program Solving
 - Opensource Contribution
 - Linux System
 
