@@ -6,18 +6,6 @@
 - Blog : https://jehunseo.tistory.com/
 - Kaggle Profile : https://www.kaggle.com/jehunseo
 ---
-### Studying now
-- Embedded C Programming (controlling Atmega128 with I/O, Timer/Counter, CAN, and etc.)
-- Python (Assignment for Data Analysis and Numerical Analysis)
-- Data Analysis (EDA, Missing Value Treatment)
-- Kotlin (Android Application Development)
-- Program Solving
-
-### Interested in
-- Opensource Contribution
-- Linux System
-
----
 ### 활동
 - [2020 Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - [IBM C:LOUDERs](https://developer.ibm.com/kr/clouders/?fbclid=IwAR1jv6Ac7pjwLc81VO3T5N_zqLf2v8SBSEEJYKGVAVKSGAF34m0pjlaf-Gw) (2020.10 ~)
