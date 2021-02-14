@@ -5,6 +5,7 @@
 - Email : benbot591@gmail.com
 - Blog : https://jehunseo.tistory.com/
 - Kaggle Profile : https://www.kaggle.com/jehunseo
+- Slideshare : https://www.slideshare.net/JeHunSeo
 ---
 ### 활동
 - [2020 Hacktoberfest](https://hacktoberfest.digitalocean.com/)
