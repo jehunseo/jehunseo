@@ -9,7 +9,6 @@
 ---
 ### 활동
 - [2020 Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-- [IBM C:LOUDERs](https://developer.ibm.com/kr/clouders/?fbclid=IwAR1jv6Ac7pjwLc81VO3T5N_zqLf2v8SBSEEJYKGVAVKSGAF34m0pjlaf-Gw) (2020.10 ~)
 - [AI 오픈랩 8기](https://www.ai-lab.kr/opens) (2021.01 ~)
   - KaDa Lab : 캐글 컴피티션을 통한 [시계열 데이터 분석](https://www.kaggle.com/c/jane-street-market-prediction) 프로젝트
   - 발표자료 : [feature hirearchial clustering 노트북 리뷰](https://docs.google.com/presentation/d/1O3r4igS5YgGvitVZquy4JjxDr9ExrZlwN1AzyU_KCaU/edit?usp=sharing)
