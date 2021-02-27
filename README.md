@@ -9,8 +9,7 @@
 ---
 ### 활동
 - [2020 Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-- [AI 오픈랩 8기](https://www.ai-lab.kr/opens) [2021.01.16 ~ 2021.04.17]
-  - KaDa Lab : 데이터 분석 경진대회 참여를 통한 시계열 데이터 분석 프로젝트
+- [AI 오픈랩 8기](https://www.ai-lab.kr/opens) [2021.01.16 ~ 2021.04.17] : KaDa Lab - 데이터 분석 경진대회 참여를 통한 시계열 데이터 분석 프로젝트
     - Kaggle : [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction) 대회 참여
       - 발표자료 : [feature hirearchial clustering 노트북 리뷰](https://docs.google.com/presentation/d/1O3r4igS5YgGvitVZquy4JjxDr9ExrZlwN1AzyU_KCaU/edit?usp=sharing)
     - DACON : [위성 영상을 활용한 북극 해빙 예측 AI 경진대회](https://dacon.io/competitions/official/235706/overview/) 참여
