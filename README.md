@@ -2,7 +2,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=benbot5)](https://solved.ac/benbot5)
 ---
 ### Hi there, I'm Jehunseo! 👋
-- Email : benbot591@gmail.com
 - Blog : https://jehunseo.tistory.com/
 - Kaggle Profile : https://www.kaggle.com/jehunseo
 - Slideshare : https://www.slideshare.net/JeHunSeo
