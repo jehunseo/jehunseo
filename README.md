@@ -14,6 +14,7 @@
       - 발표자료 : [feature hirearchial clustering 노트북 리뷰](https://docs.google.com/presentation/d/1O3r4igS5YgGvitVZquy4JjxDr9ExrZlwN1AzyU_KCaU/edit?usp=sharing)
     - DACON : [위성 영상을 활용한 북극 해빙 예측 AI 경진대회](https://dacon.io/competitions/official/235706/overview/) 참여(팀 7위)
       - 발표자료 : [Simple EDA](https://dacon.io/competitions/official/235706/codeshare/2423?page=1&dtype=recent&ptype=pub)
+- [가짜연구소 스터디 3기 - 한땀한땀 만드는 컴비 백과사전](https://pseudo-lab.com/1d87b22e451344e0a6dd50b0cbc02457) [2021.07.18 ~ 2021.11.07]
 <!--
 **jehunseo/jehunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
