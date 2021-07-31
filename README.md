@@ -15,7 +15,7 @@
     - DACON : [위성 영상을 활용한 북극 해빙 예측 AI 경진대회](https://dacon.io/competitions/official/235706/overview/) 참여(팀 7위)
       - 발표자료 : [Simple EDA](https://dacon.io/competitions/official/235706/codeshare/2423?page=1&dtype=recent&ptype=pub)
 - [가짜연구소 스터디 3기 - 한땀한땀 만드는 컴비 백과사전](https://pseudo-lab.com/1d87b22e451344e0a6dd50b0cbc02457) [2021.07.18 ~ 2021.11.07]
-- [오픈소스 컨트리뷰톤](https://contributionacademy.oopy.io/7dfc2a65-a56f-418a-b1b6-44bf6c515ce7)[2021.08.07 ~ 2021.12.07] - KiCAD 전자설계 프로그램 한글화
+- [오픈소스 컨트리뷰톤](https://contributionacademy.oopy.io/)[2021.08.07 ~ 2021.12.07] - [KiCAD 전자설계 프로그램 한글화](https://www.oss.kr/contribution_academy_project/show/1ed41a12-6445-4ff0-ae99-0610473a01c5)
 <!--
 **jehunseo/jehunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
